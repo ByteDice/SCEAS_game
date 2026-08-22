@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has been moved to https://git.bytedice.net/ByteDice/SECAS_game
+
 # Super Epic Cool Awesome Stuff: The Game
 A game made for the LBS gymnasium game-jam #2 (2025).\
 (Duration: 42 hours. Theme: "British Pigs")
